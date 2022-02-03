@@ -1,0 +1,14 @@
+C:\Users\OMRT\Desktop\TestCompute\bin\Debug\Win32\librhino3dmio_native.dll
+C:\Users\OMRT\Desktop\TestCompute\bin\Debug\Win64\librhino3dmio_native.dll
+C:\Users\OMRT\Desktop\TestCompute\bin\Debug\librhino3dmio_native.dylib
+C:\Users\OMRT\Desktop\TestCompute\bin\Debug\TestCompute.exe.config
+C:\Users\OMRT\Desktop\TestCompute\bin\Debug\TestCompute.exe
+C:\Users\OMRT\Desktop\TestCompute\bin\Debug\TestCompute.pdb
+C:\Users\OMRT\Desktop\TestCompute\bin\Debug\Newtonsoft.Json.dll
+C:\Users\OMRT\Desktop\TestCompute\bin\Debug\Rhino3dmIO.dll
+C:\Users\OMRT\Desktop\TestCompute\bin\Debug\Newtonsoft.Json.xml
+C:\Users\OMRT\Desktop\TestCompute\obj\Debug\TestCompute.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMRT\Desktop\TestCompute\obj\Debug\TestCompute.csproj.CoreCompileInputs.cache
+C:\Users\OMRT\Desktop\TestCompute\obj\Debug\TestCompute.csproj.CopyComplete
+C:\Users\OMRT\Desktop\TestCompute\obj\Debug\TestCompute.exe
+C:\Users\OMRT\Desktop\TestCompute\obj\Debug\TestCompute.pdb
